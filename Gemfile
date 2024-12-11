@@ -79,6 +79,7 @@ group :test do
   gem 'rspec-rails', require: false
   gem 'selenium-webdriver'
   gem 'webmock', require: false
+  gem "fast_ci"
 end
 
 # todo, reenable test after this bug resolved:
